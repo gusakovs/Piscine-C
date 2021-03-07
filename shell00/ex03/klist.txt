@@ -1,0 +1,6 @@
+Credentials cache: API:08F0B124-A83D-4288-AF27-AA63652A0A9E
+        Principal: mgusakov@42.FR
+
+  Issued                Expires               Principal
+Feb  1 10:08:04 2021  Feb  8 10:08:04 2021  krbtgt/42.FR@42.FR
+Feb  1 10:08:05 2021  Feb  8 10:08:04 2021  HTTP/student-storage-2.42.fr@42.FR
